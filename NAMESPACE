@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+import(sqldf,partykit,Formula,tcltk,gsubfn,stats,graphics,grDevices,utils,ROCR,ggplot2,magrittr)
